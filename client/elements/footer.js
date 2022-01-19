@@ -8,7 +8,7 @@ module.exports = function () {
         <div class="fl w-third">
           <h4 class="f4 horizontal-rule-footer">Explore</h4>
           <ul class="dat-list p0 list lh-copy">
-            ${liLink('https://datprotocol.github.io/how-dat-works/', 'How Dat Works')}
+            ${liLink('https://dat-ecosystem-archive.github.io/how-dat-works/', 'How Dat Works')}
             ${liLink('https://www.datprotocol.com/', 'Dat Protocol')}
           </ul>
         </div>
@@ -16,8 +16,8 @@ module.exports = function () {
           <h4 class="f4 horizontal-rule-footer">Learn</h4>
           <ul class="dat-list p0 list lh-copy">
             ${liLink('/about', 'About')}
-            ${liLink('https://blog.datproject.org', 'Blog')}
-            ${liLink('https://blog.datproject.org/subscribe', 'Newsletter')}
+            ${liLink('https://blog.dat-ecosystem.org', 'Blog')}
+            ${liLink('https://blog.dat-ecosystem.org/subscribe', 'Newsletter')}
             ${liLink('https://docs.datproject.org', 'Docs')}
           </ul>
         </div>

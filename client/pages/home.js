@@ -78,7 +78,7 @@ module.exports = function (state, emit) {
     ],
     cta: cta(state, emit, {
       id: 'blog-cta',
-      href: 'https://blog.datproject.org',
+      href: 'https://blog.dat-ecosystem.org',
       text: 'Learn More on Dat Blog',
       klass: 'f5 white bg-animate bg-green hover-bg-dark-green pa3 link'
     })

@@ -26,7 +26,7 @@ module.exports = function (state, emit) {
             To encourage people to experiment and innovate with peer-to-peer technology, we aim to make Dat foundational software for peer-to-peer applications – one that is sponsored by a mission-driven nonprofit. To realize this future, we aim to make Dat good at supporting the core needs of peer-to-peer applications. We hope that with our small but critical focus, we can create a strong building block for the Dat ecosystem.
           </p>
           <p class="${copyClass}">
-            The first code went into Dat <a href="https://github.com/datproject/dat/commit/e5eda57b53f60b05c0c3d97da90c10cd17dcbe19">on August 17, 2013</a>. Throughout its history, Dat has had a primary focus on Dat sharing in civic data and research, only recently with a wider focus on more general user-owned applications. Dat has been almost exclusively funded by grants from private foundations, <a href="https://blog.datproject.org/2017/09/15/dat-funding-history"/>read more on the funding history</a>.
+            The first code went into Dat <a href="https://github.com/datproject/dat/commit/e5eda57b53f60b05c0c3d97da90c10cd17dcbe19">on August 17, 2013</a>. Throughout its history, Dat has had a primary focus on Dat sharing in civic data and research, only recently with a wider focus on more general user-owned applications. Dat has been almost exclusively funded by grants from private foundations, <a href="https://blog.dat-ecosystem.org/2017/09/15/dat-funding-history"/>read more on the funding history</a>.
           </p>
           <h2 class="${headClass}">
             Supporters
