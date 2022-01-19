@@ -14,22 +14,22 @@ module.exports = function (props) {
       </header>
       <div class="pt3 flex flex-wrap w-100">
         <a class="w-100 w-auto-ns inline-flex items-center mv2 mh3" href="https://codeforscience.org/" title="Code for Science and Society">
-          <img class="h-auto w5" src="/public/img/codeforscience.png" alt="Code for Science and Society">
+          <img class="h-auto w5" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/codeforscience.png" alt="Code for Science and Society">
         </a>
  <a class="w-100 w-auto-ns inline-flex items-center mv2 mh3" href="https://mozilla.org/" title="Mozilla">
-          <img class="h3 w-auto" src="/public/img/Mozilla_Logo.png" alt="Mozilla">
+          <img class="h3 w-auto" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/Mozilla_Logo.png" alt="Mozilla">
         </a>
         <a class="inline-flex items-center mv2 mh3" href="https://sloan.org/programs/digital-technology/data-and-computational-research" title="Dat Project Grant - Alfred P. Sloan Foundation">
-          <img class="h3 w-auto" src="/public/img/sloan.png" alt="Alfred P. Sloan Foundation">
+          <img class="h3 w-auto" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/sloan.png" alt="Alfred P. Sloan Foundation">
         </a>
         <a class="inline-flex items-center mv2 mh3" href="https://www.knightfoundation.org/grants/201346305/" title="Dat Project Grant - John S. and James L. Knight Foundation">
-          <img class="h3 w-auto"  src="/public/img/knight.png" alt="John S. and James L. Knight Foundation">
+          <img class="h3 w-auto"  src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/knight.png" alt="John S. and James L. Knight Foundation">
         </a>
         <a class="inline-flex items-center mv2 mh3" href="https://www.moore.org/" title="Gordon and Betty Moore Foundation">
-          <img class="h3 w-auto" src="/public/img/moore.png" alt="Gordon and Betty Moore Foundation">
+          <img class="h3 w-auto" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/moore.png" alt="Gordon and Betty Moore Foundation">
         </a>
         <a class="w-100 w-auto-ns inline-flex items-center mv2 mh3" href="https://wireline.io/" title="Wireline">
-          <img class="w-auto h3" src="/public/img/wireline.png" alt="Wireline">
+          <img class="w-auto h3" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/wireline.png" alt="Wireline">
         </a>
       </div>
       <div class="pv3">

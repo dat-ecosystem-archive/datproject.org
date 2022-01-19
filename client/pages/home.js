@@ -13,7 +13,7 @@ const splash = css`
   :host {
     background-repeat: no-repeat;
     background-position: center 225px;
-    background-image: url("/public/img/bg-landing-page.svg");
+    background-image: url("https://dat-ecosystem-archive.github.io/datproject.org/public/img/bg-landing-page.svg");
   }
 
   :host > svg {
@@ -43,7 +43,7 @@ module.exports = function (state, emit) {
            Community-driven project for distributed data synchronization
           </h2>
           <div class="w-100 mt5">
-            <img class="center h4" src="/public/img/dat-logo.png" alt="Dat Foundation">
+            <img class="center h4" src="https://dat-ecosystem-archive.github.io/datproject.org/public/img/dat-logo.png" alt="Dat Foundation">
           </div>
           ${callout(state, emit)}
         </section>
