@@ -71,7 +71,7 @@ module.exports = function (state, emit) {
             At the scale of the web, every decision can have a massive impact on our political systems and social well-being. Dat Protocol is governed openly through a series of <a
             target="_blank"
             class="link"
-            href="/about#team"
+            href="https://dat-ecosystem-archive.github.io/datproject.org/dist/about/index.html#team"
             >working groups</a>.
             `
       }

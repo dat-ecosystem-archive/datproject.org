@@ -20,8 +20,8 @@ module.exports = function (state, emit) {
         </header>
         <p class="fw3 i tc mt4 mt5-l f4 f3-l">Are you looking for one of these?</p>
         <ul class="list tc pl0 w-100 mt5">
-          <li class="dib"><a class="f5 f4-ns link color-green db pv2 ph3 hover-color-green-hover" href="/">Dat Home</a></li>
-          <li class="dib"><a class="f5 f4-ns link color-blue db pv2 ph3 hover-color-blue-hover" href="/about">About</a></li>
+          <li class="dib"><a class="f5 f4-ns link color-green db pv2 ph3 hover-color-green-hover" href="https://dat-ecosystem-archive.github.io/datproject.org">Dat Home</a></li>
+          <li class="dib"><a class="f5 f4-ns link color-blue db pv2 ph3 hover-color-blue-hover" href="https://dat-ecosystem-archive.github.io/datproject.org/dist/about">About</a></li>
           <li class="dib"><a class="f5 f4-ns link color-red db pv2 ph3 hover-color-red-hover" href="https://blog.dat-ecosystem.org">Blog</a></li>
           <li class="dib"><a class="f5 f4-ns link color-yellow db pv2 ph3 hover-color-yellow-hover" href="https://docs.datproject.org">Documentation</a></li>
          </ul>
