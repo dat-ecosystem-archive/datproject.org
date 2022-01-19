@@ -5,4 +5,4 @@
 /blog/:year-:month-:date-:slug  https://blog.dat-ecosystem.org/:year/:month/:date/:slug  301
 /api/*                          https://datbase.org/api/:splat  301
 /dat:/*                         https://datbase.org/dat:/:splat  301
-/*                              /index.html  200
+/*                              https://datproject.org  200
